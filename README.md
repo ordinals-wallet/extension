@@ -1,3 +1,5 @@
+> **Unmaintained fork of UniSat extension; never released by Ordinals Wallet; do not use.**
+
 # UniSat Wallet
 
 UniSat Wallet - the first open-source browser extension wallet for Ordinals on bitcoin.
